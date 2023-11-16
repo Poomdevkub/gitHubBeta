@@ -1,6 +1,3 @@
-# gitHubBeta
-Welcome to my github beta
-## 🚀 About Me
 Hi 👋 My name is Sorawit Petchana
 =================================
 
