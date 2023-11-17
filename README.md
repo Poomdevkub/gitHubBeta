@@ -5,4 +5,3 @@ Hi 👋 My name is Sorawit Petchana
 *   ✉️  You can contact me at [sorawit.3p@gmail.com](mailto:sorawit.3p@gmail.com)
 *   ⚡  I'm human
 
-Answer1234
